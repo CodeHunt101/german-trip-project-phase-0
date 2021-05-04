@@ -2,6 +2,7 @@ body {
   background-color: rgb(102, 101, 101);
   font-family: 'Open Sans', sans-serif;
   display:inline;
+  
 }
 
 div {
@@ -9,9 +10,12 @@ div {
   width: 500px;
   display:block;
   margin: 0 auto;
+  
 }
 
 h1 {
+  padding-top: 40px;
+  padding-bottom: 10px;
   text-align: center;
   background-color: black;
   color: orange ;
@@ -32,4 +36,13 @@ li {
 #privacy p {
   margin-block-end: 5px;
   margin-block-start: auto;
+}
+
+footer {
+  margin-top: 100px;
+  height: 300px;
+  background-image: url(./images/books.jpeg);
+  background-repeat: no-repeat;
+  background-size:500px 300px;
+  
 }
