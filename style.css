@@ -17,3 +17,19 @@ h1 {
   color: orange ;
 }
 
+h3 {
+  color: rgb(255, 102, 0);
+  margin-bottom: auto;
+}
+
+ul {
+  list-style-type: disclosure-closed;
+}
+li {
+  padding-top: 10px;
+}
+
+#privacy p {
+  margin-block-end: 5px;
+  margin-block-start: auto;
+}
