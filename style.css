@@ -10,8 +10,12 @@ div {
   width: 500px;
   display:block;
   margin: 0 auto;
-  padding-left: 25px;
-  padding-right: 25px;
+  /* padding-left: 25px;
+  padding-right: 25px; */
+}
+
+div.container {
+  width: 470px;
 }
 
 h1 {
@@ -20,6 +24,8 @@ h1 {
   text-align: center;
   background-color: black;
   color: orange ;
+  display: block;
+  margin-top:auto;
 }
 
 h3 {
