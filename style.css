@@ -10,7 +10,8 @@ div {
   width: 500px;
   display:block;
   margin: 0 auto;
-  
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 h1 {
@@ -36,6 +37,7 @@ li {
 #privacy p {
   margin-block-end: 5px;
   margin-block-start: auto;
+  
 }
 
 footer {
