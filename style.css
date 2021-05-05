@@ -5,6 +5,7 @@ body {
   
 }
 
+
 div {
   background-color: blanchedalmond;
   width: 500px;
@@ -31,6 +32,7 @@ h1 {
 h3 {
   color: rgb(255, 102, 0);
   margin-bottom: auto;
+  text-align: center;
 }
 
 ul {
@@ -40,17 +42,31 @@ li {
   padding-top: 10px;
 }
 
-#privacy p {
-  margin-block-end: 5px;
-  margin-block-start: auto;
-  
-}
 
 footer {
   margin-top: 100px;
   height: 300px;
-  background-image: url(./images/books.jpeg);
+  background-image: url(./images/footer-background.jpeg);
   background-repeat: no-repeat;
   background-size:500px 300px;
+  
+}
+ footer p{
+  
+  padding-top: 190px;
+  text-align: center;
+  font-size:40px;
+ }
+img {
+  max-width: 470px;
+  margin-top: auto;
+}
+
+table, th, td {
+  
+  margin: auto;
+  width: 50%;
+  border: 2px solid black;
+  border-collapse: collapse;
   
 }
