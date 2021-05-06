@@ -2,7 +2,6 @@ body {
   background-color: rgb(102, 101, 101);
   font-family: 'Open Sans', sans-serif;
   display:inline;
-  
 }
 
 
@@ -11,8 +10,6 @@ div {
   width: 500px;
   display:block;
   margin: 0 auto;
-  /* padding-left: 25px;
-  padding-right: 25px; */
 }
 
 div.container {
@@ -38,35 +35,33 @@ h3 {
 ul {
   list-style-type: disclosure-closed;
 }
+
 li {
   padding-top: 10px;
 }
-
 
 footer {
   margin-top: 100px;
   height: 300px;
   background-image: url(./images/footer-background.jpeg);
   background-repeat: no-repeat;
-  background-size:500px 300px;
-  
+  background-size:500px 300px;  
 }
- footer p{
-  
+
+ footer p{ 
   padding-top: 190px;
   text-align: center;
   font-size:40px;
  }
-img {
+
+ img {
   max-width: 470px;
   margin-top: auto;
 }
 
-table, th, td {
-  
+table, th, td { 
   margin: auto;
   width: 50%;
   border: 2px solid black;
   border-collapse: collapse;
-  
 }
